@@ -3,6 +3,7 @@
 We are a bunch of geeks who love to learn and master software development technologies. We are more than we are. We are ONE.
 
 ## About Us
+![](https://www.dropbox.com/sh/slfxg9a4l92gthm/AABBpStPPy_Q7IC8LDFTiXY9a?dl=0#lh:null-IMG_8394.JPG)
 
 - Abdush loves Java since he started to write his first code in this programming language. He formerly worked on several projects to provide software solutions with optimum algorithms in Sudan. He is regarded as expert by his friends due to his prominent experience in software and managerial skills. In his free time, you can find him talking with his friends or doing sport activities.
 - Dommy has more than 5 years experience of professional software development in 2 different countries. He has been fallen in love with .NET since he learned how to write "Hello World!" program. Python - his second love - took his heart recently. In his spare time, Dommy enjoys watching football matches with his friends and arguing about some stupid things.
